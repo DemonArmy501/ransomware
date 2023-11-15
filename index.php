@@ -54,7 +54,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <head>
     <title>Haxor Noname</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hendprw/asuna/style.css"/>
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/DemonArmy501/ransomware/main/asu.css"/>
 </head>
 <body>
     <h1>Haxor Noname</h1>
