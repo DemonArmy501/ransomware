@@ -5,7 +5,7 @@ function getServerCountry() {
     return 'N/A'; // lu kontol
 }
 
-$dir = '/var/www/html/blabla'; // y
+$dir = '/var/www/html/blabla'; // Ganti dengan path yang sesuai
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $key = htmlspecialchars($_POST['key'], ENT_QUOTES, 'UTF-8');
